@@ -4,7 +4,7 @@
 
 This is a simulator that depicts the movement of robots in a controlled area to observe how they interact with one another. 
 
-### Key Features
+### 🔑 Key Features
 - Add as many robots as desired 
 - Simulate them moving and stopping 
 - Add obstacles in the arena 
@@ -13,7 +13,7 @@ This is a simulator that depicts the movement of robots in a controlled area to 
 
 ---
 
-## Download
+## ⬇️ Download
 
 Download the build:
 - **macOS (64-bit):** [Download here](https://github.com/takieddine17/Robot-Simulator/releases/download/RobotSimulator(MacOS)/RobotSimulator.app.zip)
