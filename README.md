@@ -2,14 +2,14 @@
 
 ## 🤖 About the Simulator
 
-This is a simulator that depicts the movement of robots in a controlled area to observe how thye interact with one another. 
+This is a simulator that depicts the movement of robots in a controlled area to observe how they interact with one another. 
 
 ### Key Features
-- Online multiplayer using Unity Relay and Netcode for GameObjects  
-- Character selection with unique stats (pace, shooting, dribbling)  
-- Real-time ping meter and latency handling  
-- Dynamic UI for lobby, match, and results screens  
-- Immersive sound effects and animations
+- Add as many robots as desired 
+- Simulate them moving and stopping 
+- Add obstacles in the arena 
+- Remove robots from the arena 
+- Collision with the outer wall and obstacles
 
 ---
 
@@ -21,10 +21,9 @@ Download the build:
 
 ## 🚀 How to Use
 
-1. Download and run the appropriate version for your platform.  
-2. Use the lobby to host or join a game via the join code.  
-3. Select your player and wait for others to join.  
-4. Start the match and enjoy!
+1. Download and run the application.  
+2. Use the buttons at the bottom to add/remove robots and obstacles   
+3. Start them and enjoy!
 
 ---
 
