@@ -16,7 +16,7 @@ This is a simulator that depicts the movement of robots in a controlled area to 
 ## Download
 
 Download the build:
-
+- **macOS (64-bit):** [Download here](https://github.com/takieddine17/Robot-Simulator/releases/download/RobotSimulator(MacOS)/RobotSimulator.app.zip)
 ---
 
 ## 🚀 How to Use
